@@ -16,4 +16,4 @@ O vídeo de apresentação do trabalho está disponível em https://youtu.be/6FS
 
 ## Dataset
 
-O Dataset utilizado pode ser baixado em https://arquivos.ufsc.br/d/7e7ac2f498df4cf9aa7d/.
+O Dataset utilizado pode ser baixado em https://arquivos.ufsc.br/d/7e7ac2f498df4cf9aa7d/. Não é necessário fazer download do dataset para executar os notebooks.
