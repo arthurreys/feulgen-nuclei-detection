@@ -10,6 +10,8 @@ Os notebooks podem ser executados individualmente, sem qualquer instalação adi
 - Ferramentas clássicas de visão computacional: Disponível em `notebooks/Abordagem_Clássica.ipynb`.
 - Redes Neurais - YOLOv8: Disponível em `notebooks/YOLO_Detecção_Objetos.ipynb`.
 
+No diretório `models` encontra-se o modelo treinado YOLO serializado, além de outros arquivos gerados durante o treinamento.
+
 ## Apresentação
 
 O vídeo de apresentação do trabalho está disponível em https://youtu.be/6FSSrGn45xQ.
