@@ -2,7 +2,7 @@
 
 Esse repositório se dedica aos arquivos relacionados ao projeto final da disciplina de Visão Computacional, do Programa de Mestrado em Ciência da Computação da Universidade Federal de Santa Catarina.
 
-O objetivo do projeto é detectar núcleos celulares em imagens de microscopia, pigmentados com coloração de Feulgen, e classificá-los em 8 categorias distintas. Para tal, duas diferentes abordagens foram utilizadas: uma com ferramentas clássicas de visão computacional, e outra via fine-tunning de YOLO v8, uma rede neural consolidada na tarefa de detecção de objetos.
+O objetivo do projeto é detectar núcleos celulares em imagens de microscopia, pigmentados com coloração de Feulgen, e classificá-los em 8 categorias distintas. Para tal, duas diferentes abordagens foram utilizadas: uma com ferramentas clássicas de visão computacional, e outra via fine-tuning de YOLO v8, uma rede neural consolidada na tarefa de detecção de objetos.
 
 ## Instruções
 Os notebooks podem ser executados individualmente, sem qualquer instalação adicional, no Google Colab. Para tal, abra o arquivo e clique no link "Open in Colab".
