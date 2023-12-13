@@ -19,3 +19,9 @@ O vídeo de apresentação do trabalho está disponível em https://youtu.be/6FS
 ## Dataset
 
 O Dataset utilizado pode ser baixado em https://arquivos.ufsc.br/d/7e7ac2f498df4cf9aa7d/. Não é necessário fazer download do dataset para executar os notebooks.
+
+## Exemplo predições modelo YOLOv8
+
+O exemplo abaixo mostra duas imagens do conjunto de teste e as respectivas predições do modelo YOLOv8. Mais exemplos (incluindo perdições da abordagem clássica) estão disponíveis nos notebooks.
+
+![plot](./assets/yolo_result.png)
